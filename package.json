@@ -1,0 +1,10 @@
+{
+  "name": "Workpals-NFT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matthew <alexandermatthew12@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
